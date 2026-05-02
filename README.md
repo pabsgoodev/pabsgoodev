@@ -1,9 +1,16 @@
 <h2 align="center">🟣 Olá, me chamo Pablo!</h2>
 
 ###
-<p>
-Desenvolvedor em evolução, com foco na construção de aplicações reais e na resolução eficiente de problemas. Atua no desenvolvimento backend utilizando JavaScript e TypeScript, trabalhando com integração de APIs, frameworks modernos, banco de dados e tratamento e validação de dados para criar sistemas funcionais, organizados e escaláveis. Possui experiência na estruturação de aplicações, com atenção especial à segurança, aplicando boas práticas para proteção de rotas, dados e serviços, além de sempre buscar automatização de processos para ganhar eficiência e produtividade. Mantém consistência nos estudos e direciona seus projetos para cenários próximos do mercado, buscando desenvolver soluções úteis, seguras e bem estruturadas.
-</p>
+
+<h3>
+Desenvolvedor em evolução, com foco na construção de aplicações reais e na resolução eficiente de problemas.<br><br>
+
+Atua no desenvolvimento backend utilizando JavaScript e TypeScript, trabalhando com integração de APIs, frameworks modernos, banco de dados, além de tratamento e validação de dados para criar sistemas funcionais, organizados e escaláveis.<br><br>
+
+Possui experiência na estruturação de aplicações, com atenção especial à segurança, aplicando boas práticas para proteção de rotas, dados e serviços. Também busca constantemente automatização de processos para aumentar eficiência e produtividade.<br><br>
+
+Mantém consistência nos estudos e direciona seus projetos para cenários próximos do mercado, buscando desenvolver soluções úteis, seguras e bem estruturadas.
+</h3>
 
 ###
 
