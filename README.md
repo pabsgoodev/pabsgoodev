@@ -1,4 +1,9 @@
-<h2 align="center">🟣 Olá, me chamo Pablo Antônio</h2>
+<h2 align="center">🟣 Olá, me chamo Pablo!</h2>
+
+###
+<p>
+Desenvolvedor em evolução, com foco na construção de aplicações reais e na resolução eficiente de problemas. Atua no desenvolvimento backend utilizando JavaScript e TypeScript, trabalhando com integração de APIs, frameworks modernos, banco de dados e tratamento e validação de dados para criar sistemas funcionais, organizados e escaláveis. Possui experiência na estruturação de aplicações, com atenção especial à segurança, aplicando boas práticas para proteção de rotas, dados e serviços, além de sempre buscar automatização de processos para ganhar eficiência e produtividade. Mantém consistência nos estudos e direciona seus projetos para cenários próximos do mercado, buscando desenvolver soluções úteis, seguras e bem estruturadas.
+</p>
 
 ###
 
